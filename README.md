@@ -58,7 +58,3 @@
     15. 新增标签页
     16. 新增注册邮箱验证开关(需要手动删除之前的 mto_security_code 表)
       
-### 图片演示 
-
- ![输入图片说明](https://github.com/GamHotz/mblog/blob/master/upgrade/image_1.png)
- ![输入图片说明](https://github.com/GamHotz/mblog/blob/master/upgrade/image_2.png)
