@@ -32,11 +32,6 @@
  如遇到启动失败/切换环境变量后启动失败的,请先maven clean后再尝试启动
  IDE得装lombok插件
 ```
-
-- 文档: [说明文档](https://langhsu.github.io/mblog/#/)
-- 官网: [官网地址](http://www.mtons.com)
-- QQ交流群：378433412
-    
 ### 版本(3.5)更新内容：
     1. 文件存储目录可配置, 见 site.location, 默认为 user.dir
     2. 支持在${site.location}/storage/templates 目录下扩展自己的主题(${site.location}具体位置见启动日志)
@@ -65,5 +60,5 @@
       
 ### 图片演示 
 
- ![输入图片说明](https://images.gitee.com/uploads/images/2019/0414/175116_449ed877_1758849.jpeg "1.jpg")
- ![输入图片说明](https://images.gitee.com/uploads/images/2019/0414/175353_6185e4f1_1758849.jpeg "2.jpg")
+ ![输入图片说明](https://github.com/GamHotz/mblog/blob/master/upgrade/image_1.png)
+ ![输入图片说明](https://github.com/GamHotz/mblog/blob/master/upgrade/image_2.png)
