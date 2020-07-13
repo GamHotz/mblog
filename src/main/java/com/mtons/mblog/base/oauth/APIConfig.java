@@ -22,7 +22,7 @@ public class APIConfig {
     private String openkey_baidu;
 
     private String redirect_baidu;
-
+    //人人网
     private String openid_renren;
 
     private String openkey_renren;
@@ -32,6 +32,7 @@ public class APIConfig {
     private String openid_osc;
     private String openkey_osc;
     private String redirect_osc;
+    //豆瓣登录
     private String openid_douban;
     private String openkey_douban;
     private String redirect_douban;
